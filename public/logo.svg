@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240" height="50" viewBox="0 0 240 50" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; }
+    .code-icon { fill: #6366F1; }
+    .collection-icon { fill: #8B5CF6; }
+  </style>
+  <!-- Code Symbol -->
+  <path class="code-icon" d="M15 20 L5 25 L15 30 M25 20 L35 25 L25 30" stroke="#6366F1" stroke-width="2" fill="none"/>
+  <!-- Collection Display -->
+  <path class="collection-icon" d="M15 10 h20 a5 5 0 0 1 5 5 v20 a5 5 0 0 1 -5 5 h-20 a5 5 0 0 1 -5 -5 v-20 a5 5 0 0 1 5 -5" fill="#8B5CF6" opacity="0.2"/>
+  <rect x="18" y="15" width="14" height="14" fill="#8B5CF6" opacity="0.4"/>
+  <!-- Text -->
+  <text x="50" y="30" class="text" fill="#4B5563">Code Crafts</text>
+  <text x="140" y="30" class="text" fill="#6366F1">&amp;</text>
+  <text x="160" y="30" class="text" fill="#8B5CF6">Collections</text>
+</svg> 
